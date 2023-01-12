@@ -36,7 +36,7 @@ _(in no particular order)_
 | [Dragonfly](https://github.com/LordBaryhobal/dragonfly) | an mqtt-like communication protocol | Python
 | [Snaildash](https://github.com/LordBaryhobal/snaildash) | a fast-paced 2-player mix of Snake and Splatoon | Python
 | [Packetman](https://github.com/LordBaryhobal/packetman) | 2D game with puzzles and parkour (school project) | Python
-| [File splitter](https://github.com/LordBaryhobal/file-splitter) | an encryption algorithm which splits a file in multiple encoded parts | Python
+| [File splitter](https://github.com/LordBaryhobal/file-splitter-python) | an encryption algorithm which splits a file in multiple encoded parts | Python
 | [Binoxxo solver](https://github.com/LordBaryhobal/binoxxo-solver) | a Binoxxo solver working with augmented reality | Python
 | [Monopoly](https://github.com/LordBaryhobal/monopoly) | the monopoly game (with some custom rules) | Python
 | [Quarto](https://github.com/LordBaryhobal/quarto) | a 2-player strategy board game | Python
@@ -58,7 +58,7 @@ _(in no particular order)_
 - [Dragonfly](https://github.com/LordBaryhobal/dragonfly): an mqtt-like communication protocol
 - [Snaildash](https://github.com/LordBaryhobal/snaildash): a fast-paced 2-player mix of Snake and Splatoon
 - [Packetman](https://github.com/LordBaryhobal/packetman): 2D game with puzzles and parkour (school project)
-- [File splitter](https://github.com/LordBaryhobal/file-splitter): an encryption algorithm which splits a file in multiple encoded parts
+- [File splitter](https://github.com/LordBaryhobal/file-splitter-python): an encryption algorithm which splits a file in multiple encoded parts
 - [Binoxxo solver](https://github.com/LordBaryhobal/binoxxo-solver): a Binoxxo solver working with augmented reality
 - [Monopoly](https://github.com/LordBaryhobal/monopoly): the monopoly game (with some custom rules)
 - [Quarto](https://github.com/LordBaryhobal/quarto): a 2-player strategy board game
