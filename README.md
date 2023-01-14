@@ -32,7 +32,7 @@ _(in no particular order)_
 | [My Maturity Work](https://github.com/LordBaryhobal/5D_Heredero_Louis_TM2022) | my maturity work on barcodes, QR-Codes and Lycacodes | Python, LaTeX
 | [ProjeQtOr Telegram Bot](https://github.com/HERDAC/ProjeqtorTelegramBot) | a telegram bot to interact with ProjeQtOr | PHP
 | [Thymotel](https://github.com/LordBaryhobal/thymotel) | a Thymio school project | Aseba, LaTeX
-| [Minecraft Computer](https://github.com/LordBaryhobal/minecraft-computer) | a 16-bit computer in Minecraft
+| [Minecraft Computer](https://github.com/LordBaryhobal/minecraft-computer) | a 16-bit computer in Minecraft | |
 | [BaryScript](https://github.com/LordBaryhobal/baryscript) | a programming language inspired by Python and JS | Python
 | [Dragonfly](https://github.com/LordBaryhobal/dragonfly) | an mqtt-like communication protocol | Python
 | [Snaildash](https://github.com/LordBaryhobal/snaildash) | a fast-paced 2-player mix of Snake and Splatoon | Python
