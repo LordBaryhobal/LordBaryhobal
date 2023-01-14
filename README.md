@@ -44,6 +44,7 @@ _(in no particular order)_
 | [Skyjo](https://github.com/LordBaryhobal/skyjo) | a fun luck- and strategy-based multiplayer card game | Python
 | [Stack](https://github.com/LordBaryhobal/stack) | the Stack game | Python
 | [Sudoku solver](https://github.com/LordBaryhobal/sudoku-solver) | a sudoku solver | Python
+| [Create mod pondering](https://github.com/LordBaryhobal/mc-create-ponder) | the Create mod's pondering menu
 | [Dickclock](https://dickclock.ch) | a very immature clock | Web (HTML, CSS, JS)
 | [Yalta Chess](https://github.com/LordBaryhobal/yalta) | a 3-player chess board | Python
 | [Basic Computer Games](https://github.com/LordBaryhobal/basic-computer-games) | remakes of basic computer games | Python
