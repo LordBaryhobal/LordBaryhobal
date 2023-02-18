@@ -48,6 +48,7 @@ _(in no particular order)_
 | [Dickclock](https://dickclock.ch) | a very immature clock | Web (HTML, CSS, JS)
 | [Yalta Chess](https://github.com/LordBaryhobal/yalta) | a 3-player chess board | Python
 | [Basic Computer Games](https://github.com/LordBaryhobal/basic-computer-games) | remakes of basic computer games | Python
+| [ECI Morphing](https://github.com/LordBaryhobal/eci-morphing) | Convex polygon morphing using ECI | Python
 | [Frachebourg](https://frachebourg.com) _(on request)_ | a site created for the retirement of one of my math teachers | Web (HTML, CSS, JS)
 | [Games](https://games.heredero.org) | a collection of fun web-based games | Web (HTML, CSS, JS)
 | [Build an Atom](https://atom.heredero.org) | a tool to visualize atoms with protons, neutrons and electrons | Web (HTML, CSS, JS)
