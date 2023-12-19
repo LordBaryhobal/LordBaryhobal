@@ -8,7 +8,7 @@ Helping others is also an activity I enjoy.
 
 ---
 
-**<{ Languages I know }>:**
+**<{ Languages I have worked with }>:**
 - French
 - English
 - Python
@@ -22,6 +22,7 @@ Helping others is also an activity I enjoy.
 - Aseba
 - Lua
 - SQL
+- Scala
 
 **<{ Some projects I've worked on }>:**
 
