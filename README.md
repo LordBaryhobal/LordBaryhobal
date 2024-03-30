@@ -35,7 +35,8 @@ _(in no particular order)_
 | [Thymotel](https://github.com/LordBaryhobal/thymotel) | a Thymio school project | Aseba, LaTeX |
 | [Minecraft Computer](https://github.com/LordBaryhobal/minecraft-computer) | a 16-bit redstone computer in Minecraft | |
 | [Minecraft Computer (Datapack)](https://github.com/LordBaryhobal/minecraft-dp-computer) | a Minecraft computer datapack | |
-| [RIVET](https://git.kb28.ch/rivet) | a binary Register / Instruction Visualizer & Explainer Tool | Python |
+| [RIVET](https://git.kb28.ch/HEL/rivet) | a binary Register / Instruction Visualizer & Explainer Tool | Python |
+| [HEI VPN for Linux](https://git.kb28.ch/HEL/hei-vpn-for-linux) | a script to use the HEI VPN on Linux | Python |
 | [BaryScript](https://github.com/LordBaryhobal/baryscript) | a programming language inspired by Python and JS | Python |
 | [Dragonfly](https://github.com/LordBaryhobal/dragonfly) | an mqtt-like communication protocol | Python |
 | [Snaildash](https://github.com/LordBaryhobal/snaildash) | a fast-paced 2-player mix of Snake and Splatoon | Python |
